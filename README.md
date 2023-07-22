@@ -2,4 +2,5 @@
 All of my embedded systems projects (Arduino, C++, IoT) <br>
 
 <a href="https://www.instructables.com/Mini-Touchless-Candy-Dispenser/">Touchless Candy Dispenser</a><br>
-<img src="url(https://content.instructables.com/F2Z/MM03/LDLOIKUY/F2ZMM03LDLOIKUY.jpg?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=cbc6ce909382cb5d9148b32ee6a391c6)"></img>
+<a href="https://www.instructables.com/Send-Email-Alerts-With-Arduino-IoT/">Temperature Email Alerts (IoT)</a><br>
+<a href="https://www.instructables.com/Beginner-IoT-Project-esp8266-Blynk/">Beginner IoT Project</a><br>
